@@ -1,0 +1,7 @@
+site_name: Mis Recetas
+nav:
+    - 'index.md'
+    - tags.md
+
+plugins:
+  - tags:
